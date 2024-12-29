@@ -20,7 +20,7 @@ The Weather App allows users to:
 
 ## Live Demo
 
-You can explore the live version of the Weather App here: [Weather App](#)
+You can explore the live version of the Weather App here: [Weather App](https://weather-apprituraj.netlify.app/)
 
 ## Installation
 
