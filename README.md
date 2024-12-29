@@ -1,13 +1,6 @@
-# Weather App
+# 30 Mini Projects
 
-Welcome to the **Weather App** repository! This project showcases a simple and interactive weather application developed using **HTML**, **CSS**, and **JavaScript**. This app demonstrates my front-end development skills and the ability to fetch and display dynamic data using APIs.
-
-## Project Description
-
-The Weather App allows users to:
-- Search for the current weather of any city.
-- View key weather details such as temperature, humidity, and weather conditions.
-- Enjoy a responsive and user-friendly design.
+Welcome to the 30 Mini Projects repository! This project showcases a collection of simple and interactive applications developed using HTML, CSS, and JavaScript. These projects demonstrate my front-end development skills and the ability to create engaging user experiences.
 
 ## Technologies Used
 
@@ -25,5 +18,14 @@ You can explore the live version of the Weather App here: [Weather App](https://
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/Rituraj27/30-Mini-Projets
+   git clone https://github.com/your-username/weather-app.git
   
+## Author
+
+If you have any suggestions, feedback, or collaboration ideas, feel free to contact me:
+
+Name: Rituraj Hao
+
+Email: riturajhao7@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/riturajhao/
