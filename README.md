@@ -25,4 +25,5 @@ You can explore the live version of the Weather App here: [Weather App](#)
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Rituraj27/30-Mini-Projets
+  
