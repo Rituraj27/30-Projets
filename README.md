@@ -35,13 +35,11 @@ You can explore the live version:
 git clone https://github.com/Rituraj27/30-Mini-Projets.git
 ```
 
-git clone https://github.com/Rituraj27/30-Mini-Projets.git
-
 ## Author
 
 If you have any suggestions, feedback, or collaboration ideas, feel free to contact me:
 
-Name: Rituraj Hao
+Author: [Rituraj Hao](https://riturajhao.netlify.app/)
 
 Email: riturajhao7@gmail.com
 
