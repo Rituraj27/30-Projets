@@ -1,6 +1,6 @@
 "use strict";
 
-const apiKey = "a0d427928554968645bfdcdf8e891be8";
+const apiKey = "Your_Api_key";
 const searchButton = document.querySelector(".search-bar button");
 const input = document.querySelector("#city-search");
 const temperatureDisplay = document.querySelector(".temperature");
