@@ -2,6 +2,15 @@
 
 Welcome to the 30 Mini Projects repository! This project showcases a collection of simple and interactive applications developed using HTML, CSS, and JavaScript. These projects demonstrate my front-end development skills and the ability to create engaging user experiences.
 
+## Table of Contents
+
+- [Technologies Used](#technologies-used)
+- [Live Demo](#live-demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Author](#author)
+- [License](#license)
+
 ## Technologies Used
 
 <p align="center">
@@ -13,13 +22,21 @@ Welcome to the 30 Mini Projects repository! This project showcases a collection 
 
 ## Live Demo
 
-You can explore the live version of the Weather App here: [Weather App](https://weather-apprituraj.netlify.app/)
+You can explore the live version:
+
+1. [Weather App](https://weather-apprituraj.netlify.app/)
+2. [To-do List](https://todo-by-rituraj.netlify.app/)
 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/weather-app.git
-  
+
+```bash
+git clone https://github.com/Rituraj27/30-Mini-Projets.git
+```
+
+git clone https://github.com/Rituraj27/30-Mini-Projets.git
+
 ## Author
 
 If you have any suggestions, feedback, or collaboration ideas, feel free to contact me:
@@ -29,3 +46,7 @@ Name: Rituraj Hao
 Email: riturajhao7@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/riturajhao/
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
