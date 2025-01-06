@@ -1,6 +1,6 @@
-# 30 Mini Projects
+# 30 Projects
 
-Welcome to the 30 Mini Projects repository! This project showcases a collection of simple and interactive applications developed using HTML, CSS, and JavaScript. These projects demonstrate my front-end development skills and the ability to create engaging user experiences.
+Welcome to the 30 Projects repository! This project showcases a collection of simple and interactive applications developed using HTML, CSS, and JavaScript. These projects demonstrate my front-end development skills and the ability to create engaging user experiences.
 
 ## Table of Contents
 
