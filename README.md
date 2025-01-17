@@ -28,6 +28,8 @@ You can explore the live version:
 2. [To-do List](https://todo-by-rituraj.netlify.app/)
 3. [Sidcup Family Golf](https://sidecup-familygolf-rituraj27.netlify.app/)
 4. [YouTube Clone](https://youtube-clone-rituraj27.netlify.app/)
+5. [Magma](https://magma-rituraj27.netlify.app/)
+6. [Rock Paper Scissor](https://rock-paper-scissor-rituraj27.netlify.app/)
 
 ## Installation
 
