@@ -30,6 +30,7 @@ You can explore the live version:
 4. [YouTube Clone](https://youtube-clone-rituraj27.netlify.app/)
 5. [Magma](https://magma-rituraj27.netlify.app/)
 6. [Rock Paper Scissor](https://rock-paper-scissor-rituraj27.netlify.app/)
+7. [Apple vision pro](https://vision-pro-rituraj27.netlify.app/)
 
 ## Installation
 
