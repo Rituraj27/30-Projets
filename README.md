@@ -1,4 +1,4 @@
-# 30 Projects
+# 7 Projects
 
 Welcome to the 30 Projects repository! This project showcases a collection of simple and interactive applications developed using HTML, CSS, and JavaScript. These projects demonstrate my front-end development skills and the ability to create engaging user experiences.
 
